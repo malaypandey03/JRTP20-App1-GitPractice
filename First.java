@@ -4,5 +4,8 @@ class First
 	{
 
 	}
-		
+	public void method2()
+	{
+	
+	}		
 }
