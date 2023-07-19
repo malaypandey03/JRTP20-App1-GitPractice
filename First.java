@@ -6,6 +6,7 @@ class First
 	}
 	public void method2()
 	{
-	
+		// bug fix id:- 105
+		String name="Raju";
 	}		
 }
